@@ -36,5 +36,6 @@ public class SeaCreature {
 			ex.printStackTrace();
 		}
 	}
+	
 
 }
